@@ -1,0 +1,6 @@
+.list {
+    width: 60%;
+}
+li {
+    list-style-type: none; 
+}

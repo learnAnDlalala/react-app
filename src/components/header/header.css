@@ -1,0 +1,21 @@
+.header-bar {
+    padding-top:15px;
+    background: linear-gradient(90deg, rgba(173,85,33,1) 0%, rgba(223,236,106,1) 97%);
+    height: 50px;
+    min-width: 500px;
+}
+.title-bar {
+    padding: 0px 15px ;
+    word-wrap: break-word;
+    display: flex;
+}
+.date-bar {
+    margin: 0px 7px;
+    border-radius: 4px;
+}
+.hidden {
+    display:none;
+}
+.active {
+    display:block;
+}
